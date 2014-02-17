@@ -1,0 +1,32 @@
+#goal{
+  color: red;
+}
+
+#response{
+  color: purple;
+}
+
+div{
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  background-color:red;
+  border-radius: 5px;
+}
+
+body{
+  text-align: center;
+  margin-top: 75px;
+}
+
+div:hover{
+  box-shadow: 10px 10px 5px #888888;
+}
+
+#green{
+  background-color: green;
+}
+
+#blue{
+  background-color: blue;
+}
